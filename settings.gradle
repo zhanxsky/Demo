@@ -1,1 +1,1 @@
-include ':app', ':myview', ':Rain'
+include ':app', ':myview', ':Rain', ':SlideView'
